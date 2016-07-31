@@ -1,0 +1,3 @@
+contract('DisasterALert', function(accounts) {
+
+});
